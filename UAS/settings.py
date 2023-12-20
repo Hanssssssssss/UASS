@@ -1,0 +1,5 @@
+USER = 'postgres'
+PASSWORD = 'hanapi'
+HOST = 'localhost'
+PORT = '5432'
+DATABASE_NAME = 'hanapi'
